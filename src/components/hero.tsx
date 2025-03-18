@@ -32,7 +32,7 @@ export default function Hero() {
                         transition: { duration: 0.4 },
                     }}
                 >
-                    <h3 className="text-red-500 scroll-m-20 bg-opacity-50 bg-gradient-to-b from-neutral-900 to-neutral-700 bg-clip-text font-mplus-rounded text-2xl font-semibold tracking-tight text-transparent dark:from-neutral-50 dark:to-neutral-400">
+                    <h3 className="scroll-m-20 bg-opacity-50 bg-gradient-to-b from-neutral-900 to-neutral-700 bg-clip-text font-mplus-rounded text-2xl font-semibold tracking-tight text-red-500 text-transparent dark:from-neutral-50 dark:to-neutral-400">
                         Full-stack Developer
                     </h3>
                 </Reveal>
@@ -45,10 +45,10 @@ export default function Hero() {
                     }}
                 >
                     <p className="font-mplus-rounded leading-7">
-                        I'm a full-stack developer with a passion for building
-                        scalable and efficient web applications.
+                        I&apos;m a full-stack developer with a passion for
+                        building scalable and efficient web applications.
                         <br />
-                        I'm currently working as a full-stack developer at{' '}
+                        I&apos;m currently working as a full-stack developer at{' '}
                         <Link
                             href="https://hitachids.com/"
                             target="_blank"
@@ -188,7 +188,7 @@ export default function Hero() {
                     fill
                     priority
                     style={{ objectFit: 'contain' }}
-                    className="rounded-md object-cover scale-75"
+                    className="scale-75 rounded-md object-cover"
                 />
             </div>
         </header>

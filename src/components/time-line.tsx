@@ -123,8 +123,7 @@ export default function Timeline() {
                                 [0, 100],
                             ),
                         }}
-                    >
-                    </motion.div>
+                    ></motion.div>
 
                     {workExperiences.map((event, index) => (
                         <TimelineEvent
