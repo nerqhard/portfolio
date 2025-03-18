@@ -291,20 +291,6 @@ export default function Skills() {
                                     Figma
                                 </p>
                             </div>
-                            {/* OpenAI */}
-                            <div className="flex flex-col items-center justify-center">
-                                <ChatGpt className="hover:animate-spin" />
-                                <p className="text-sm text-muted-foreground">
-                                    OpenAI
-                                </p>
-                            </div>
-                            {/* Copilot */}
-                            <div className="flex flex-col items-center justify-center">
-                                <Copilot className="hover:animate-spin" />
-                                <p className="text-sm text-muted-foreground">
-                                    Copilot
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </Reveal>
