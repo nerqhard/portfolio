@@ -96,7 +96,7 @@ export default function Timeline() {
                     transition={{ duration: 0.8 }}
                 >
                     <h2 className="text-3xl font-bold text-foreground sm:text-4xl">
-                        🔸 Where I&apos;ve worked 🔸
+                        Where I&apos;ve worked
                     </h2>
                     <br />
                 </motion.div>

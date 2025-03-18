@@ -59,10 +59,10 @@ export default function RootLayout({
                     disableTransitionOnChange
                 >
                     <NavigationBar />
-                    <div className="relative min-h-screen w-full overflow-hidden bg-background fade-in">
+                    <div className="relative min-h-screen w-full overflow-hidden bg-background fade-in z-[-2]">
                         {/* Grid overlay */}
                         <div
-                            className="absolute inset-0 z-0"
+                            className="absolute inset-0 z-[-1]"
                             style={{
                                 backgroundImage: `
               linear-gradient(to right, var(--theme-grid-color) 1px, transparent 1px),
