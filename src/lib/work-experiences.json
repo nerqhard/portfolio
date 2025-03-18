@@ -1,0 +1,63 @@
+[
+    {
+        "position": "Team lead & Developer",
+        "company": "Hitachi Digital Services Vietnam",
+        "duration": "Jan 2020 - Present",
+        "responsibilities": [
+            "Responsible for analyzing, implementing, and optimizing both front-end and back-end solutions.",
+            "Collaborated with cross-functional teams to deliver high-quality web solutions.",
+            "Additionally, took on the role of leading team members to ensure the delivery of high-quality web applications within deadlines."
+        ],
+        "skills": [
+            "ReactJS",
+            "NextJS",
+            "REST APIs",
+            "TypeScript",
+            "Tailwind CSS",
+            "Material UI",
+            "Redux toolkit",
+            "JWT",
+            "NestJs",
+            "PostgreSQL",
+            "Docker",
+            "I18n",
+            "Socket.io",
+            "Git"
+        ]
+    },
+    {
+        "position": "Fresher (Full-time)",
+        "company": "Rikkeisoft Da Nang",
+        "duration": "Nov 2019 - Dec 2019",
+        "responsibilities": [
+            "Build and deploy a weather notification website, providing the latest weather information to users."
+        ],
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "Spring Data JPA",
+            "Thymeleaf",
+            "Bootstrap",
+            "REST APIs"
+        ]
+    },
+    {
+        "position": "Technical staff",
+        "company": "Song Ba Joint Stock Company",
+        "duration": "Jun 2017 - Sep 2019",
+        "responsibilities": [
+            "Calculated and implemented Construction Drawings.",
+            "Developed Tools using VBA for Excel, AutoCAD."
+        ],
+        "skills": [
+            "VBA",
+            "Assembly",
+            "Revit",
+            "AutoCAD",
+            "Word",
+            "Excel",
+            "Power Point"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Demo",
+        "description": "A web application to manage students and activities in a workshop setting. Successfully managed ~10,000 registered students and more than 477 projects.",
+        "type": "NQH",
+        "imageUrl": "/assets/images/Xuongthuchanh.webp",
+        "githubUrl": "",
+        "demoUrl": "https://google.com/",
+        "skills": [
+            "TypeScript",
+            "ReactJs",
+            "REST APIs",
+            "Redux Tookit"
+        ]
+    }
+]
